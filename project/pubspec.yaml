@@ -10,7 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  # Adicione outras dependências web se necessário
 
 dev_dependencies:
   flutter_test:
